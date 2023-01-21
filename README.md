@@ -1,2 +1,5 @@
-# bootcamp-fwd2022
-bootcamp-fwd2022
+# meetdoctor
+web design meetdoctor platform
+
+project created with 
+![tailwindcss](https://tailwindcss.com/)
