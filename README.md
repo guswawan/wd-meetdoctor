@@ -2,4 +2,4 @@
 web design meetdoctor platform
 
 project created with 
-![tailwindcss](https://tailwindcss.com/)
+[tailwindcss](https://tailwindcss.com/)
